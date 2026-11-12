@@ -4,7 +4,7 @@ RingQt6 (Qt 6.12) package for the Ring programming language
 
 ## Install
 
-	ringpm install ringqt6
+	ringpm install ringqt6 from ringpackages
 
 The package installs
 
